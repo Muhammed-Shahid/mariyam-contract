@@ -174,7 +174,7 @@ function UploadPage() {
         <div className="container pt-5 ">
           <section>
             <div className="heading">
-              <h1>AI PPT Generator </h1>
+              <h1>Nextgen PPT </h1>
             </div>
           </section>
 
