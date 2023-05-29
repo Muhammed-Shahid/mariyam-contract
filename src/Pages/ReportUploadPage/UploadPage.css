@@ -1,0 +1,102 @@
+.container{
+    align-content:center ;
+    align-items: center;
+}
+
+
+
+.fileInput{
+    display: none;
+}
+
+.fileInputLabel{
+    width: 200px;
+    height: 200px;
+
+    border-radius: 50%;
+    border: 2px dashed blue;
+    
+}
+.upload-success-label{
+    width: 250px;
+    height: 250px;
+
+    border-radius: 50%;
+}
+
+.titleDisplayer{
+    margin-top: 100px;
+    
+}
+
+.titleDiv{
+    margin-top: 50px;
+    width: 100%;
+    cursor: pointer;
+}
+
+.titles{
+    font-size: larger;
+    cursor: pointer
+}
+
+
+
+.google-btn {
+    margin-left: auto;
+    margin-right: auto;
+  width: 184px;
+  height: 42px;
+  background-color: #4285f4;
+  border-radius: 2px;
+  box-shadow: 0 3px 4px 0 rgba(0,0,0,.25);
+padding-left: 0.5px;
+  
+}:hover{
+    cursor: pointer;
+}
+  .google-icon-wrapper {
+    position: absolute;
+    margin-top: 1px;
+    
+    
+    width: 40px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+  }
+  .google-icon {
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 11px;
+    width: 18px;
+    height: 18px;
+    
+  }
+  .btn-text {
+    float: right;
+    margin: 11px 11px 0 0;
+    color: white;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.2px;
+    font-family: "Roboto";
+  }
+  .btn-text:hover {
+    box-shadow: 0 0 6px #4285f4;
+  }
+  .btn-text:active {
+    background: #1669F2;
+  }
+
+.signin-sec{
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}
+@import url(https://fonts.googleapis.com/css?family=Roboto:500);
